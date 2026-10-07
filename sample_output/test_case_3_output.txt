@@ -1,0 +1,19 @@
+Enter the number of elements: 3
+
+Enter 3 integer values:
+Element 1: 22
+Element 2: 55
+Element 3: 77
+
+Entered elements are:
+22 55 77 
+
+Sum = 154
+Average = 51.3333
+
+Memory addresses:
+Address of element 1 = 0x55d26b03d2d0
+Address of element 2 = 0x55d26b03d2d4
+Address of element 3 = 0x55d26b03d2d8
+
+Dynamic memory has been released successfully.

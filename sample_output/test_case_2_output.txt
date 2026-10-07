@@ -1,0 +1,25 @@
+Enter the number of elements: 6
+
+Enter 6 integer values:
+Element 1: 22
+Element 2: 75
+Element 3: 94
+Element 4: 66
+Element 5: 77
+Element 6: 99
+
+Entered elements are:
+22 75 94 66 77 99 
+
+Sum = 433
+Average = 72.1667
+
+Memory addresses:
+Address of element 1 = 0x55c1c34362d0
+Address of element 2 = 0x55c1c34362d4
+Address of element 3 = 0x55c1c34362d8
+Address of element 4 = 0x55c1c34362dc
+Address of element 5 = 0x55c1c34362e0
+Address of element 6 = 0x55c1c34362e4
+
+Dynamic memory has been released successfully.

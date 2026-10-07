@@ -1,0 +1,23 @@
+Enter the number of elements: 5
+
+Enter 5 integer values:
+Element 1: 10
+Element 2: 34
+Element 3: 55
+Element 4: 66
+Element 5: 88
+
+Entered elements are:
+10 34 55 66 88 
+
+Sum = 253
+Average = 50.6
+
+Memory addresses:
+Address of element 1 = 0x5578605252d0
+Address of element 2 = 0x5578605252d4
+Address of element 3 = 0x5578605252d8
+Address of element 4 = 0x5578605252dc
+Address of element 5 = 0x5578605252e0
+
+Dynamic memory has been released successfully.

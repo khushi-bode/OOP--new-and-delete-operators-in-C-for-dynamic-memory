@@ -1,0 +1,7 @@
+# Requirements / Dependencies for Practical No. 04
+# This is a pure C++ program. No external libraries or packages are needed.
+
+Compiler        : g++ (GCC / MinGW) 4.9 or later, C++11 standard or above
+IDE (optional)  : Dev-C++ 5.11 or any C++ IDE (Code::Blocks, VS Code)
+Standard header : <iostream>
+Operating System: Windows / Linux / macOS
